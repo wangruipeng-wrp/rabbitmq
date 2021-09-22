@@ -8,7 +8,7 @@ import java.nio.charset.StandardCharsets;
 /**
  * 消息生产者
  */
-public class Customer {
+public class Consumer {
 
     public static void main(String[] args) {
 
